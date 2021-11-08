@@ -1,8 +1,6 @@
-![web Developer](https://pbs.twimg.com/profile_images/1457576184208711683/bAhBn7kV_400x400.jpg)
-
 ### Hi there 👋, I'm Monisha
 #### web Developer
-
+![web Developer](https://pbs.twimg.com/profile_images/1457576184208711683/bAhBn7kV_400x400.jpg)
 
  I am a CSE student I love learning Mathematics, algorithms & Programming. I am also interested in graphics design. 
 
